@@ -134,6 +134,4 @@ void loop() {
     buttonState = false;
     Serial.println("Button state reset after 5 seconds");
   }
-
-  delay(100); // Small delay for stability
 }
